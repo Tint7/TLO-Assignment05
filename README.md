@@ -1,6 +1,6 @@
 # app_note
 
-A new Flutter project.
+Assignment 05 First Commit.
 
 ## Getting Started
 
